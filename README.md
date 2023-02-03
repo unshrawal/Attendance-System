@@ -15,4 +15,4 @@ The purpose of this project is to make the process of taking attendance more sea
 4. Build face_recognition from source 'conda install -c conda-forge face_recognition'
 5. Then enter `pip install -r requirements.txt` into the command line to install all modules if you haven't done so already.
 6. Create a new folder called 'faces' in the current directory.
-7. Your program is good to go now!
+7. Your program is good to go!
